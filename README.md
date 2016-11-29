@@ -1,4 +1,4 @@
-# Otacop
+# Otacop [![Gem Version](https://badge.fury.io/rb/otacop.svg)](https://badge.fury.io/rb/otacop) [![Build Status](https://travis-ci.org/otaku-dev/otacop.svg?branch=master)](https://travis-ci.org/otaku-dev/otacop)
 
 OtaCop is a RuboCop configration gem. Inspired by onkcop.
 
