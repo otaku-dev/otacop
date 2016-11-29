@@ -3,4 +3,5 @@ inherit_from:
   - disabled.yml
 
 AllCops:
+  DisplayCopNames: true
   TargetRubyVersion: 2.3
