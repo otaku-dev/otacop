@@ -26,6 +26,8 @@ Add the following directive to your .rubocop.yml:
 inherit_gem:
   otacop:
     - "config/default.yml"
+    # uncomment if use rails cops
+    # - "config/rails.yml"
 ```
 
 ## Contributing
