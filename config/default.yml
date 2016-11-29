@@ -4,4 +4,3 @@ inherit_from:
 
 AllCops:
   DisplayCopNames: true
-  TargetRubyVersion: 2.3
