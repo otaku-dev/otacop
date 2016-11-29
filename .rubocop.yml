@@ -1,0 +1,2 @@
+inherit_gem:
+  otacop: "config/default.yml"
