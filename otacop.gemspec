@@ -10,8 +10,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Ryoji Yoshioka"]
   spec.email         = ["yoshioka.ryoji@gmail.com"]
 
-  spec.summary       = %q{OtaCop is a RuboCop configration gem.}
-  spec.description   = %q{OtaCop is a RuboCop configration gem.}
+  spec.summary       = "OtaCop is a RuboCop configration gem."
+  spec.description   = "OtaCop is a RuboCop configration gem."
   spec.homepage      = "https://github.com/otaku-dev/otacop"
   spec.license       = "MIT"
 
