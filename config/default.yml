@@ -4,3 +4,9 @@ inherit_from:
 
 AllCops:
   DisplayCopNames: true
+  Exclude:
+    - 'vendor/**/*'
+    # TODO
+    # - 'bin/*'
+    # - 'db/schema.rb'
+    # - 'tmp/**/*'
