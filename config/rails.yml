@@ -1,2 +1,5 @@
 Rails:
   Enabled: true
+
+Style/IndentationConsistency:
+  Enabled: false
