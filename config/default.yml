@@ -3,10 +3,16 @@ inherit_from:
   - disabled.yml
 
 AllCops:
-  DisplayCopNames: true
   Exclude:
     - 'vendor/**/*'
     # TODO
     # - 'bin/*'
     # - 'db/schema.rb'
     # - 'tmp/**/*'
+  DisplayCopNames: true
+
+Style/IndentationConsistency:
+  EnforcedStyle: rails
+
+Metrics/LineLength:
+  Max: 200
