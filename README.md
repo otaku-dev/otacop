@@ -30,7 +30,11 @@ inherit_gem:
     # - "config/rails.yml"
 
 AllCops:
-  TargetRubyVersion: 2.3
+  # uncomment if use rails cops
+  # Exclude:
+  #   - 'db/schema.rb'
+  #   - 'vendor/**/*'
+  TargetRubyVersion: 2.4
 ```
 
 ## Contributing
