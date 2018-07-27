@@ -2,4 +2,4 @@ inherit_gem:
   otacop: "config/default.yml"
 
 AllCops:
-  TargetRubyVersion: 2.4
+  TargetRubyVersion: 2.5
